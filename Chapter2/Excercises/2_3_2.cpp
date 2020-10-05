@@ -74,6 +74,7 @@ int main()
     {
         std::cout << A[i] << " ";
     }
+    std::cout << std::endl;
 
     return 0;
 }
