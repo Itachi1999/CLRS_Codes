@@ -87,6 +87,7 @@ int main()
     return 0;
 }
 
+// For testing the algorithm
 // int main()
 // {
 //     int A[5] = {0, -32, 26, -46, 1};
